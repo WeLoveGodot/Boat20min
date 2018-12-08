@@ -1,0 +1,16 @@
+# ignore all
+
+*
+
+# white list
+
+# normal
+!*/
+!.gitignore
+!*.md
+
+# godot
+!*.godot
+!*.png
+!*.tscn
+!*.tres
